@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PaymentAutomation\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE771E-1F5B-400C-8BF3-319F01A54783}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\paymentautomation\\taskmanager\\taskmanager.tests\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE771E-1F5B-400C-8BF3-319F01A54783}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CA66EF-D245-4932-8186-9BF361265A6E}|TaskManager.Application\\TaskManager.Application.csproj|c:\\paymentautomation\\taskmanager\\taskmanager.application\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CA66EF-D245-4932-8186-9BF361265A6E}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CA66EF-D245-4932-8186-9BF361265A6E}|TaskManager.Application\\TaskManager.Application.csproj|c:\\paymentautomation\\taskmanager\\taskmanager.application\\inputmodels\\createtaskinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CA66EF-D245-4932-8186-9BF361265A6E}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\inputmodels\\createtaskinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE771E-1F5B-400C-8BF3-319F01A54783}|TaskManager.Tests\\TaskManager.Tests.csproj|c:\\paymentautomation\\taskmanager\\taskmanager.tests\\projectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE771E-1F5B-400C-8BF3-319F01A54783}|TaskManager.Tests\\TaskManager.Tests.csproj|solutionrelative:taskmanager.tests\\projectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25C30BB-A98B-4A37-B25F-564AB60539BD}|TaskManager.Core\\TaskManager.Core.csproj|c:\\paymentautomation\\taskmanager\\taskmanager.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25C30BB-A98B-4A37-B25F-564AB60539BD}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030A13C1-5186-4F02-8396-9632D00402C2}|TaskManager.API\\TaskManager.API.csproj|c:\\paymentautomation\\taskmanager\\taskmanager.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030A13C1-5186-4F02-8396-9632D00402C2}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CA66EF-D245-4932-8186-9BF361265A6E}|TaskManager.Application\\TaskManager.Application.csproj|c:\\paymentautomation\\taskmanager\\taskmanager.application\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CA66EF-D245-4932-8186-9BF361265A6E}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25C30BB-A98B-4A37-B25F-564AB60539BD}|TaskManager.Core\\TaskManager.Core.csproj|c:\\paymentautomation\\taskmanager\\taskmanager.core\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25C30BB-A98B-4A37-B25F-564AB60539BD}|TaskManager.Core\\TaskManager.Core.csproj|solutionrelative:taskmanager.core\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030A13C1-5186-4F02-8396-9632D00402C2}|TaskManager.API\\TaskManager.API.csproj|c:\\paymentautomation\\taskmanager\\taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030A13C1-5186-4F02-8396-9632D00402C2}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskServiceTests.cs",
+              "DocumentMoniker": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Tests\\TaskServiceTests.cs",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\TaskServiceTests.cs",
+              "ToolTip": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Tests\\TaskServiceTests.cs",
+              "RelativeToolTip": "TaskManager.Tests\\TaskServiceTests.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:04:33.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTaskInputModel.cs",
+              "DocumentMoniker": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Application\\InputModels\\CreateTaskInputModel.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\InputModels\\CreateTaskInputModel.cs",
+              "ToolTip": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Application\\InputModels\\CreateTaskInputModel.cs",
+              "RelativeToolTip": "TaskManager.Application\\InputModels\\CreateTaskInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:55:14.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Core\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Entities\\Task.cs",
+              "ToolTip": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Core\\Entities\\Task.cs",
+              "RelativeToolTip": "TaskManager.Core\\Entities\\Task.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:09:09.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectServiceTests.cs",
+              "DocumentMoniker": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Tests\\ProjectServiceTests.cs",
+              "RelativeDocumentMoniker": "TaskManager.Tests\\ProjectServiceTests.cs",
+              "ToolTip": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Tests\\ProjectServiceTests.cs",
+              "RelativeToolTip": "TaskManager.Tests\\ProjectServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:53:22.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Application\\Services\\Implementations\\ProjectService.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\Services\\Implementations\\ProjectService.cs",
+              "ToolTip": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Application\\Services\\Implementations\\ProjectService.cs",
+              "RelativeToolTip": "TaskManager.Application\\Services\\Implementations\\ProjectService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAEYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:49:10.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Core\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "TaskManager.Core\\Entities\\Project.cs",
+              "ToolTip": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Core\\Entities\\Project.cs",
+              "RelativeToolTip": "TaskManager.Core\\Entities\\Project.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvwoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:48:54.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\PaymentAutomation\\TaskManager\\TaskManager.API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManager.API\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\PaymentAutomation\\TaskManager\\TaskManager.API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManager.API\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAADgv0cAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:53:13.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\PaymentAutomation\\TaskManager\\TaskManager.API\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "TaskManager.API\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\PaymentAutomation\\TaskManager\\TaskManager.API\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "TaskManager.API\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAADAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:00:28.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Application\\Services\\Implementations\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\Services\\Implementations\\TaskService.cs",
+              "ToolTip": "C:\\PaymentAutomation\\TaskManager\\TaskManager.Application\\Services\\Implementations\\TaskService.cs",
+              "RelativeToolTip": "TaskManager.Application\\Services\\Implementations\\TaskService.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAnwIkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:49:22.599Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
